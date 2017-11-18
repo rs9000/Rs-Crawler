@@ -3,7 +3,7 @@ Multi-thread web crawler in .net
 
 ## How To
 1) Clone repository
-2) Launch Rs-Crawler.exe as Administrator
+2) Launch exe "Rs-Crawler" as Administrator
 
 
 ## Screen App
